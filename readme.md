@@ -1,5 +1,5 @@
 ## Project Name & Summary
-*The UCD_2001 Air Quality Modeling Software*
+*The UCD_2001 Air Quality Modeling Application*
 
 A novel model to simulate air quality near roadways using java.
 
@@ -36,7 +36,7 @@ a simple computer model that could be used by a non-experts
 to accurately determine air quality near roadways. 
 As such, I developed a simple GUI to allow users with little understanding 
 of atmospheric physics to interact with the modeling software 
-with a simple frontend using java swing (that had just been released) .
+with a simple frontend using java swing (that had just been released) :).
 
 The documentation of this software's API is extensive and can be viewed 
 [here](https://tonyserver.github.io/ucd2001/docs/).  
