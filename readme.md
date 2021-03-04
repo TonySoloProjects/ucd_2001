@@ -18,6 +18,9 @@ A super cool model to simulate something you are very interested in.
 
 Brief overview of project here:
 Object model and code documentation at: https://tonyserver.github.io/ucd2001/docs/
+https://tonyserver.github.io/ucd2001/tony_held_air_quality_model_publication.pdf
+https://tonyserver.github.io/ucd2001/tony_held_dissertation_2001_10_05.pdf
+
 
 Usage
 java -jar ucd_2001_gui.jar
