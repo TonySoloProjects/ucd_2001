@@ -17,6 +17,11 @@ A super cool model to simulate something you are very interested in.
 ## Project Description
 
 Brief overview of project here:
+Object model and code documentation at: https://tonyserver.github.io/ucd2001/docs/
+
+Usage
+java -jar ucd_2001_gui.jar
+
 
 ## Getting Started
 
