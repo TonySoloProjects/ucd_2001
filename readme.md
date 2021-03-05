@@ -32,7 +32,8 @@ The goal of the research was to distill complex physical processes into
 a simple computer model that could be used by a non-experts 
 to accurately determine air quality near roadways. 
 A GUI was developed to allow users with little understanding 
-of atmospheric physics to access the model using a java swing frontend.
+of atmospheric physics to utilize the modeling framework
+ via a simple java swing frontend.
 
 The documentation of this software's API is extensive and can be viewed 
 [here](https://tonyserver.github.io/ucd2001/docs/).  
