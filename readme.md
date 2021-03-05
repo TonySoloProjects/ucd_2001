@@ -36,8 +36,7 @@ of atmospheric physics to utilize the modeling framework
  via a simple java swing frontend.
 
 The documentation of this software's API is extensive and can be viewed 
-[here](https://tonyserver.github.io/ucd2001/docs/).  
-In addition, select code blocks are presented in this repository.
+[here](https://tonyserver.github.io/ucd2001/docs/). In addition, select code blocks are presented in this repository.
 
 Interested readers can review publications associated with this model 
 [here](https://tonyserver.github.io/ucd2001/tony_held_air_quality_model_publication.pdf). 
