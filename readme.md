@@ -31,9 +31,8 @@ of each point source to receptor locations using the following equations:
 The goal of the research was to distill complex physical processes into 
 a simple computer model that could be used by a non-experts 
 to accurately determine air quality near roadways. 
-As such, I developed a GUI to allow users with little understanding 
-of atmospheric physics to interact with the modeling software 
-with a frontend using java swing (that had just been released) :).
+A GUI was developed to allow users with little understanding 
+of atmospheric physics to access the model using a java swing frontend.
 
 The documentation of this software's API is extensive and can be viewed 
 [here](https://tonyserver.github.io/ucd2001/docs/).  
